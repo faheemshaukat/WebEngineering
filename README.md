@@ -1,2 +1,5 @@
 # WebEngineering
 
+ALTER TABLE registration
+ADD id INT NOT NULL AUTO_INCREMENT PRIMARY KEY FIRST;
+
